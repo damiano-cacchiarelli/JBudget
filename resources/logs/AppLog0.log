@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-06T14:53:08.700257500Z</date>
+  <millis>1604674388700</millis>
+  <nanos>257500</nanos>
+  <sequence>0</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.App</class>
+  <method>startApp</method>
+  <thread>1</thread>
+  <message>Application started.</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.470781800Z</date>
+  <millis>1604674389470</millis>
+  <nanos>781800</nanos>
+  <sequence>1</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>getReader</method>
+  <thread>13</thread>
+  <message>Generazione nuovo Reader per BankGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.472779800Z</date>
+  <millis>1604674389472</millis>
+  <nanos>779800</nanos>
+  <sequence>2</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>13</thread>
+  <message>Cerco il File : BankGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.474778800Z</date>
+  <millis>1604674389474</millis>
+  <nanos>778800</nanos>
+  <sequence>3</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>13</thread>
+  <message>Il File non esiste, ne ho creato uno nuovo</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.475778600Z</date>
+  <millis>1604674389475</millis>
+  <nanos>778600</nanos>
+  <sequence>4</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>readGsonStringFromFile</method>
+  <thread>13</thread>
+  <message>Read file : BankGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.478777700Z</date>
+  <millis>1604674389478</millis>
+  <nanos>777700</nanos>
+  <sequence>5</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>getReader</method>
+  <thread>13</thread>
+  <message>Generazione nuovo Reader per CatGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.479776800Z</date>
+  <millis>1604674389479</millis>
+  <nanos>776800</nanos>
+  <sequence>6</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>13</thread>
+  <message>Cerco il File : CatGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.481774700Z</date>
+  <millis>1604674389481</millis>
+  <nanos>774700</nanos>
+  <sequence>7</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>13</thread>
+  <message>Il File non esiste, ne ho creato uno nuovo</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.482774400Z</date>
+  <millis>1604674389482</millis>
+  <nanos>774400</nanos>
+  <sequence>8</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>readGsonStringFromFile</method>
+  <thread>13</thread>
+  <message>Read file : CatGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.484773200Z</date>
+  <millis>1604674389484</millis>
+  <nanos>773200</nanos>
+  <sequence>9</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>getReader</method>
+  <thread>13</thread>
+  <message>Generazione nuovo Reader per IdManagerGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.485772200Z</date>
+  <millis>1604674389485</millis>
+  <nanos>772200</nanos>
+  <sequence>10</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>13</thread>
+  <message>Cerco il File : IdManagerGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.486772Z</date>
+  <millis>1604674389486</millis>
+  <nanos>772000</nanos>
+  <sequence>11</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>13</thread>
+  <message>Il File non esiste, ne ho creato uno nuovo</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:09.487772100Z</date>
+  <millis>1604674389487</millis>
+  <nanos>772100</nanos>
+  <sequence>12</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>readGsonStringFromFile</method>
+  <thread>13</thread>
+  <message>Read file : IdManagerGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:10.855924800Z</date>
+  <millis>1604674390855</millis>
+  <nanos>924800</nanos>
+  <sequence>13</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.view.JavaFXJBudgetController</class>
+  <method>init</method>
+  <thread>17</thread>
+  <message>Aggiorno i dati da visualizzare ...</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:10.936875400Z</date>
+  <millis>1604674390936</millis>
+  <nanos>875400</nanos>
+  <sequence>14</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.view.JavaFXJBudgetController</class>
+  <method>init</method>
+  <thread>17</thread>
+  <message>Dati aggiornati</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.540001200Z</date>
+  <millis>1604674398540</millis>
+  <nanos>1200</nanos>
+  <sequence>15</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>getWriter</method>
+  <thread>17</thread>
+  <message>Generazione nuovo Writer per BankGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.542000200Z</date>
+  <millis>1604674398542</millis>
+  <nanos>200</nanos>
+  <sequence>16</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>17</thread>
+  <message>Cerco il File : BankGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.543998Z</date>
+  <millis>1604674398543</millis>
+  <nanos>998000</nanos>
+  <sequence>17</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>save</method>
+  <thread>17</thread>
+  <message>Scrivo su File</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.547996Z</date>
+  <millis>1604674398547</millis>
+  <nanos>996000</nanos>
+  <sequence>18</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>getWriter</method>
+  <thread>17</thread>
+  <message>Generazione nuovo Writer per CatGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.548995700Z</date>
+  <millis>1604674398548</millis>
+  <nanos>995700</nanos>
+  <sequence>19</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>17</thread>
+  <message>Cerco il File : CatGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.551992800Z</date>
+  <millis>1604674398551</millis>
+  <nanos>992800</nanos>
+  <sequence>20</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>save</method>
+  <thread>17</thread>
+  <message>Scrivo su File</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.553990700Z</date>
+  <millis>1604674398553</millis>
+  <nanos>990700</nanos>
+  <sequence>21</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>getWriter</method>
+  <thread>17</thread>
+  <message>Generazione nuovo Writer per IdManagerGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.555990100Z</date>
+  <millis>1604674398555</millis>
+  <nanos>990100</nanos>
+  <sequence>22</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>generateFile</method>
+  <thread>17</thread>
+  <message>Cerco il File : IdManagerGSON.json</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.559988900Z</date>
+  <millis>1604674398559</millis>
+  <nanos>988900</nanos>
+  <sequence>23</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>save</method>
+  <thread>17</thread>
+  <message>Scrivo su File</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.563985700Z</date>
+  <millis>1604674398563</millis>
+  <nanos>985700</nanos>
+  <sequence>24</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.controller.LocalSynchronizer</class>
+  <method>saveData</method>
+  <thread>17</thread>
+  <message>Salvataggio completato!</message>
+</record>
+<record>
+  <date>2020-11-06T14:53:18.573979400Z</date>
+  <millis>1604674398573</millis>
+  <nanos>979400</nanos>
+  <sequence>25</sequence>
+  <logger>it.unicam.cs.pa.jbudget105101.App</logger>
+  <level>INFO</level>
+  <class>it.unicam.cs.pa.jbudget105101.App</class>
+  <method>startApp</method>
+  <thread>1</thread>
+  <message>Application terminated.</message>
+</record>
+</log>
